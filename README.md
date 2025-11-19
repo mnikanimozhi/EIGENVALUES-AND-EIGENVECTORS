@@ -15,10 +15,10 @@ Using the np.linalg.eig(),  we get two results (first is eigenvalue and second i
 End the program
 
 ## Program:
-<img width="874" height="528" alt="Screenshot 2025-11-19 112422" src="https://github.com/user-attachments/assets/0aa3608f-7fb4-4d4d-a185-0a32ea9a5abc" />
+<img width="921" height="596" alt="Screenshot 2025-11-19 133221" src="https://github.com/user-attachments/assets/6b27122b-b928-400c-9319-971cac3ca402" />
 
 ## Output:
-<img width="544" height="245" alt="Screenshot 2025-11-19 112430" src="https://github.com/user-attachments/assets/72c8e219-aa6c-4e4a-8ef8-ad89209b25c5" />
+<img width="1276" height="237" alt="Screenshot 2025-11-19 133300" src="https://github.com/user-attachments/assets/05b14951-8eff-4780-9d9e-7d9d52b06a35" />
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
